@@ -1,0 +1,12 @@
+[submodule "Leitor-de-Gabarito"]
+	path = Leitor-de-Gabarito
+	url = https://github.com/liedsoon/Leitor-de-Gabarito
+[submodule "IA"]
+	path = IA
+	url = https://github.com/sslog2/IA
+[submodule "Anti-Cheating"]
+	path = Anti-Cheating
+	url = https://github.com/Matheus-Farias86/Anti-Cheating
+[submodule "Taxa-de-Entrega"]
+	path = Taxa-de-Entrega
+	url = https://github.com/Matheus-Farias86/Taxa-de-Entrega
